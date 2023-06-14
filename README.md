@@ -1,2 +1,2 @@
 # Puissance4
-Connect 4 game with AI opponent and two-player mode, implemented in Python for a high school NSI project.
+Connect 4 with AI is a Python implementation of the classic Connect 4 game. Developed as part of a high school NSI project, it features a graphical user interface and includes an AI opponent for single-player mode. The project's main focus was to create a competitive AI player to provide an immersive gaming experience. Additionally, the game supports a two-player mode for interactive gameplay.
