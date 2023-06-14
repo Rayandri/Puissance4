@@ -1,4 +1,4 @@
-from local.lib_plateau import *
+from lib_plateau import *
 from time import sleep
 
 P = Plateau()
